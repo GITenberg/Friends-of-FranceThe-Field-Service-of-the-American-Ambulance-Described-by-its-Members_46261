@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 46261-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46261#Friends-of-FranceThe-Field-Service-of-the-American-Ambulance-Described-by-its-Members
 gutenberg_issued: '2014-07-12'
 gutenberg_type: Text
 identifiers:
